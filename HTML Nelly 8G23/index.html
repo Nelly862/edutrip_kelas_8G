@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Edutrip - Jelajahi Sambil Belajar</title>
+</head>
+<body style="font-family: Arial, sans-serif; background-color: #d4ebff; margin: 0; padding: 0;">
+
+  <!-- HEADER -->
+  <header style="background-color: #72c1e9; color: white; padding: 20px 0; text-align: center;">
+    <h1 style="margin: 0;">Edutrip Taiwan</h1>
+    <p style="margin: 5px 0 0;">Santa Laurensia Junior High School</p>
+  </header>
+
+  <!-- NAVIGATION BAR -->
+  <nav style="background-color: #1f8fca; padding: 10px 0; text-align: center;">
+    <a href="index.html" style="color: white; margin: 0 15px; text-decoration: none; font-weight: bold;">Home</a>
+    <a href="agama.html" style="color: white; margin: 0 15px; text-decoration: none;">Agama</a>
+    <a href="ppkn.html" style="color: white; margin: 0 15px; text-decoration: none;">PPKN</a>
+    <a href="bahasaindonesia.html" style="color: white; margin: 0 15px; text-decoration: none;">Bahasa Indonesia</a>
+    <a href="bahasainggris.html" style="color: white; margin: 0 15px; text-decoration: none;">Bahasa Inggris</a>
+    <a href="ips.html" style="color: white; margin: 0 15px; text-decoration: none;">IPS</a>
+    <a href="bahasamandarin.html" style="color: white; margin: 0 15px; text-decoration: none;">Bahasa Mandarin</a>
+  </nav>
+
+  <!-- MAIN CONTENT -->
+  <main style="padding: 30px; text-align: center;">
+    <h2 style="color: #2e3e7d;">Selamat Datang di Edutrip</h2>
+    <p style="font-size: 18px; max-width: 700px; margin: 20px auto;">
+      Saya berharap dalam Edutrip ini saya dapat belajar banyak hal seperti budaya mereka, apa yang berbeda dengan kehidupan sehari-hari mereka, bagaimana sikap mereka, apakah ada kesamaan, dll. Dalam Edutrip kali ini saya harus mempersiapkan baju-baju dan celana panjang untuk 8 hari, kemudian baju tidur untuk 7 hari, peralatan mandi seperti sikat gigi dan pasta gigi, shampoo, sabun, tissue, dompet, universal adaptor, powerbank, dan peralatan tulis.
+    </p>
+  </main>
+
+  <!-- FOOTER -->
+  <footer style="background-color: #4c6baf; color: white; text-align: center; padding: 15px 0;">
+    <p>Report by: Nelly So Putri 8G</p>
+    <p>&copy; 2025 Edutrip. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
