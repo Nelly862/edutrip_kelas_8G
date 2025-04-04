@@ -1,1 +1,1 @@
-edutrip_kelas_8G
+Edutrip Kelas 8G
